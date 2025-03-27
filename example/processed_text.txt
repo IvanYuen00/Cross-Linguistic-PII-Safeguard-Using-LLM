@@ -1,0 +1,9 @@
+On [DATE], at approximately [TIME] hours, a concerned citizen reported suspicious activity near
+[GPE][FAC].
+
+Upon arrival, Officer [FIRSTNAME] [MIDDLENAME] and her team observed an individual loitering near a closed storefront. This individual was later identified as
+[PERSON]·[PERSON] (DOB: 1990[DOB]), who appeared to be pacing while carrying a large backpack.
+
+Officers made contact with [PREFIX] [PERSON], who stated he was waiting for a friend. A routine ID check revealed no outstanding warrants, and [PREFIX]. [PERSON] voluntarily allowed the officers to inspect his backpack, which contained only personal belongings and no contraband.
+
+No further action was taken, and Mr. [PERSON] was advised to avoid loitering in the area. The incident was subsequently closed, with the report approved by [PREFIX] [FIRSTNAME] [LASTNAME] on the same day.
